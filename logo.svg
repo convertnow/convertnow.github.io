@@ -1,0 +1,21 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="128" height="128" fill="#000000"/>
+    <g>
+        <!-- Background pattern -->
+        <rect x="16" y="16" width="96" height="96" fill="none" stroke="#0066ff" stroke-width="2" opacity="0.2"/>
+        <line x1="16" y1="32" x2="112" y2="32" stroke="#0066ff" stroke-width="1" opacity="0.1"/>
+        <line x1="16" y1="48" x2="112" y2="48" stroke="#0066ff" stroke-width="1" opacity="0.1"/>
+        <line x1="16" y1="64" x2="112" y2="64" stroke="#0066ff" stroke-width="1" opacity="0.1"/>
+        <line x1="16" y1="80" x2="112" y2="80" stroke="#0066ff" stroke-width="1" opacity="0.1"/>
+        <line x1="16" y1="96" x2="112" y2="96" stroke="#0066ff" stroke-width="1" opacity="0.1"/>
+        
+        <!-- Main shapes -->
+        <rect x="32" y="32" width="24" height="24" fill="#0066ff" stroke="#0066ff" stroke-width="2"/>
+        <rect x="72" y="32" width="24" height="24" fill="#ff1493" stroke="#ff1493" stroke-width="2"/>
+        <rect x="32" y="72" width="24" height="24" fill="#00d084" stroke="#00d084" stroke-width="2"/>
+        <rect x="72" y="72" width="24" height="24" fill="#ffa500" stroke="#ffa500" stroke-width="2"/>
+        
+        <!-- Center circle -->
+        <circle cx="64" cy="64" r="12" fill="none" stroke="#7c3aed" stroke-width="2"/>
+    </g>
+</svg>
