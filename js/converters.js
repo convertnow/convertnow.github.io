@@ -70,12 +70,6 @@ function renderConverters(filter = "", search = "") {
     })
 }
 
-// Handle converter click
-function handleConverterClick(converter) {
-  alert(`Converter: ${converter.from} → ${converter.to}\n\nConversion tool would load here.`)
-  // In a real app, this would navigate to a converter page or open a modal
-}
-
 // Search functionality
 function setupConverterFilters() {
   const searchInput = document.getElementById("searchInput")
